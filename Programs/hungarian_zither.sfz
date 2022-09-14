@@ -1,0 +1,61 @@
+<control>
+label_cc31=Width
+label_cc32=Transpose
+
+set_cc31=127
+set_cc32=63.5
+
+
+
+<global>
+sw_lokey=36
+sw_hikey=39
+sw_default=36
+amp_veltrack=50
+off_mode=time
+off_time=0.3
+group=1
+off_by=1
+bend_up=0
+bend_down=0
+width=0
+width_oncc31=100
+tune_oncc32=700
+tune_curvecc32=1
+tune_stepcc32=100
+
+<master>
+sw_last=36
+sw_label=Down
+loop_mode=one_shot
+
+#include "mappings/down.sfz"
+
+<master>
+sw_last=37
+sw_label=Up
+loop_mode=one_shot
+#include "mappings/up.sfz"
+
+<master>
+sw_last=38
+sw_label=Alternating
+loop_mode=one_shot
+#include "mappings/down_alt.sfz"
+#include "mappings/up_alt.sfz"
+
+<master>
+sw_last=39
+sw_label=Melody
+ampeg_release=0.3
+#include "mappings/mel.sfz"
+
+
+//And low E mutes any current samples
+<master>
+<region>
+key=40
+sample=*silence
+ampeg_sustain=0
+ampeg_decay=0
+ampeg_release=0
