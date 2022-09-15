@@ -1,7 +1,9 @@
 <control>
+set_cc31=127
 set_cc107=40
 set_cc114=40
 
+label_cc31=Width
 label_cc107=Release time
 label_cc111=Guitar vibrato
 label_cc112=Violin vibrato
@@ -10,6 +12,8 @@ label_cc116=Vibrato delay
 label_cc117=Vibrato humanize
 
 <global>
+width=0
+width_oncc31=100
 ampeg_release=0.2
 ampeg_release_oncc107=1
 
