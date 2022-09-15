@@ -1,6 +1,6 @@
 
 <region>
-sample=../Samples/down/prime_zither_g4_down_rr1.wav
+sample=../Samples/down/prime_zither_g4_down_rr1.flac
 lokey=43
 hikey=43
 seq_length=4
@@ -8,7 +8,7 @@ seq_position=2
 pitch_keycenter=43
 
 <region>
-sample=../Samples/down/prime_zither_ab4_down_rr1.wav
+sample=../Samples/down/prime_zither_ab4_down_rr1.flac
 lokey=44
 hikey=44
 seq_length=4
@@ -16,7 +16,7 @@ seq_position=2
 pitch_keycenter=44
 
 <region>
-sample=../Samples/down/prime_zither_a4_down_rr1.wav
+sample=../Samples/down/prime_zither_a4_down_rr1.flac
 lokey=45
 hikey=45
 seq_length=4
@@ -24,7 +24,7 @@ seq_position=2
 pitch_keycenter=45
 
 <region>
-sample=../Samples/down/prime_zither_bb4_down_rr1.wav
+sample=../Samples/down/prime_zither_bb4_down_rr1.flac
 lokey=46
 hikey=46
 seq_length=4
@@ -32,7 +32,7 @@ seq_position=2
 pitch_keycenter=46
 
 <region>
-sample=../Samples/down/prime_zither_b4_down_rr1.wav
+sample=../Samples/down/prime_zither_b4_down_rr1.flac
 lokey=47
 hikey=47
 seq_length=4
@@ -40,7 +40,7 @@ seq_position=2
 pitch_keycenter=47
 
 <region>
-sample=../Samples/down/prime_zither_c5_down_rr1.wav
+sample=../Samples/down/prime_zither_c5_down_rr1.flac
 lokey=48
 hikey=48
 seq_length=4
@@ -48,7 +48,7 @@ seq_position=2
 pitch_keycenter=48
 
 <region>
-sample=../Samples/down/prime_zither_db5_down_rr1.wav
+sample=../Samples/down/prime_zither_db5_down_rr1.flac
 lokey=49
 hikey=49
 seq_length=4
@@ -56,7 +56,7 @@ seq_position=2
 pitch_keycenter=49
 
 <region>
-sample=../Samples/down/prime_zither_d5_down_rr1.wav
+sample=../Samples/down/prime_zither_d5_down_rr1.flac
 lokey=50
 hikey=50
 seq_length=4
@@ -64,7 +64,7 @@ seq_position=2
 pitch_keycenter=50
 
 <region>
-sample=../Samples/down/prime_zither_eb5_down_rr1.wav
+sample=../Samples/down/prime_zither_eb5_down_rr1.flac
 lokey=51
 hikey=51
 seq_length=4
@@ -72,7 +72,7 @@ seq_position=2
 pitch_keycenter=51
 
 <region>
-sample=../Samples/down/prime_zither_e5_down_rr1.wav
+sample=../Samples/down/prime_zither_e5_down_rr1.flac
 lokey=52
 hikey=52
 seq_length=4
@@ -80,7 +80,7 @@ seq_position=2
 pitch_keycenter=52
 
 <region>
-sample=../Samples/down/prime_zither_f5_down_rr1.wav
+sample=../Samples/down/prime_zither_f5_down_rr1.flac
 lokey=53
 hikey=53
 seq_length=4
@@ -88,7 +88,7 @@ seq_position=2
 pitch_keycenter=53
 
 <region>
-sample=../Samples/down/prime_zither_gb5_down_rr1.wav
+sample=../Samples/down/prime_zither_gb5_down_rr1.flac
 lokey=54
 hikey=54
 seq_length=4
@@ -96,7 +96,7 @@ seq_position=2
 pitch_keycenter=54
 
 <region>
-sample=../Samples/down/prime_zither_g5_down_rr1.wav
+sample=../Samples/down/prime_zither_g5_down_rr1.flac
 lokey=55
 hikey=55
 seq_length=4
@@ -104,7 +104,7 @@ seq_position=2
 pitch_keycenter=55
 
 <region>
-sample=../Samples/down/prime_zither_ab5_down_rr1.wav
+sample=../Samples/down/prime_zither_ab5_down_rr1.flac
 lokey=56
 hikey=56
 seq_length=4
@@ -112,7 +112,7 @@ seq_position=2
 pitch_keycenter=56
 
 <region>
-sample=../Samples/down/prime_zither_a5_down_rr1.wav
+sample=../Samples/down/prime_zither_a5_down_rr1.flac
 lokey=57
 hikey=57
 seq_length=4
@@ -120,7 +120,7 @@ seq_position=2
 pitch_keycenter=57
 
 <region>
-sample=../Samples/down/prime_zither_bb5_down_rr1.wav
+sample=../Samples/down/prime_zither_bb5_down_rr1.flac
 lokey=58
 hikey=58
 seq_length=4
@@ -128,7 +128,7 @@ seq_position=2
 pitch_keycenter=58
 
 <region>
-sample=../Samples/down/prime_zither_b5_down_rr1.wav
+sample=../Samples/down/prime_zither_b5_down_rr1.flac
 lokey=59
 hikey=59
 seq_length=4
@@ -136,14 +136,14 @@ seq_position=2
 pitch_keycenter=59
 
 <region>
-sample=../Samples/down/prime_zither_c6_down_rr1.wav
+sample=../Samples/down/prime_zither_c6_down_rr1.flac
 lokey=60
 hikey=60
 seq_length=4
 seq_position=2
 
 <region>
-sample=../Samples/down/prime_zither_db6_down_rr1.wav
+sample=../Samples/down/prime_zither_db6_down_rr1.flac
 lokey=61
 hikey=61
 seq_length=4
@@ -151,7 +151,7 @@ seq_position=2
 pitch_keycenter=61
 
 <region>
-sample=../Samples/down/prime_zither_d6_down_rr1.wav
+sample=../Samples/down/prime_zither_d6_down_rr1.flac
 lokey=62
 hikey=62
 seq_length=4
@@ -159,7 +159,7 @@ seq_position=2
 pitch_keycenter=62
 
 <region>
-sample=../Samples/down/prime_zither_eb6_down_rr1.wav
+sample=../Samples/down/prime_zither_eb6_down_rr1.flac
 lokey=63
 hikey=63
 seq_length=4
@@ -167,7 +167,7 @@ seq_position=2
 pitch_keycenter=63
 
 <region>
-sample=../Samples/down/prime_zither_e6_down_rr1.wav
+sample=../Samples/down/prime_zither_e6_down_rr1.flac
 lokey=64
 hikey=64
 seq_length=4
@@ -175,7 +175,7 @@ seq_position=2
 pitch_keycenter=64
 
 <region>
-sample=../Samples/down/prime_zither_f6_down_rr1.wav
+sample=../Samples/down/prime_zither_f6_down_rr1.flac
 lokey=65
 hikey=65
 seq_length=4
@@ -183,7 +183,7 @@ seq_position=2
 pitch_keycenter=65
 
 <region>
-sample=../Samples/down/prime_zither_gb6_down_rr1.wav
+sample=../Samples/down/prime_zither_gb6_down_rr1.flac
 lokey=66
 hikey=66
 seq_length=4
@@ -191,7 +191,7 @@ seq_position=2
 pitch_keycenter=66
 
 <region>
-sample=../Samples/down/prime_zither_g6_down_rr1.wav
+sample=../Samples/down/prime_zither_g6_down_rr1.flac
 lokey=67
 hikey=67
 seq_length=4
@@ -199,7 +199,7 @@ seq_position=2
 pitch_keycenter=67
 
 <region>
-sample=../Samples/down/prime_zither_ab6_down_rr1.wav
+sample=../Samples/down/prime_zither_ab6_down_rr1.flac
 lokey=68
 hikey=68
 seq_length=4
@@ -207,7 +207,7 @@ seq_position=2
 pitch_keycenter=68
 
 <region>
-sample=../Samples/down/prime_zither_a6_down_rr1.wav
+sample=../Samples/down/prime_zither_a6_down_rr1.flac
 lokey=69
 hikey=69
 seq_length=4
@@ -215,7 +215,7 @@ seq_position=2
 pitch_keycenter=69
 
 <region>
-sample=../Samples/down/prime_zither_bb6_down_rr1.wav
+sample=../Samples/down/prime_zither_bb6_down_rr1.flac
 lokey=70
 hikey=70
 seq_length=4
@@ -223,7 +223,7 @@ seq_position=2
 pitch_keycenter=70
 
 <region>
-sample=../Samples/down/prime_zither_b6_down_rr1.wav
+sample=../Samples/down/prime_zither_b6_down_rr1.flac
 lokey=71
 hikey=71
 seq_length=4
@@ -231,7 +231,7 @@ seq_position=2
 pitch_keycenter=71
 
 <region>
-sample=../Samples/down/prime_zither_c7_down_rr1.wav
+sample=../Samples/down/prime_zither_c7_down_rr1.flac
 lokey=72
 hikey=72
 seq_length=4
@@ -239,7 +239,7 @@ seq_position=2
 pitch_keycenter=72
 
 <region>
-sample=../Samples/down/prime_zither_g4_down_rr2.wav
+sample=../Samples/down/prime_zither_g4_down_rr2.flac
 lokey=43
 hikey=43
 seq_length=4
@@ -247,7 +247,7 @@ seq_position=4
 pitch_keycenter=43
 
 <region>
-sample=../Samples/down/prime_zither_ab4_down_rr2.wav
+sample=../Samples/down/prime_zither_ab4_down_rr2.flac
 lokey=44
 hikey=44
 seq_length=4
@@ -255,7 +255,7 @@ seq_position=4
 pitch_keycenter=44
 
 <region>
-sample=../Samples/down/prime_zither_a4_down_rr2.wav
+sample=../Samples/down/prime_zither_a4_down_rr2.flac
 lokey=45
 hikey=45
 seq_length=4
@@ -263,7 +263,7 @@ seq_position=4
 pitch_keycenter=45
 
 <region>
-sample=../Samples/down/prime_zither_bb4_down_rr2.wav
+sample=../Samples/down/prime_zither_bb4_down_rr2.flac
 lokey=46
 hikey=46
 seq_length=4
@@ -271,7 +271,7 @@ seq_position=4
 pitch_keycenter=46
 
 <region>
-sample=../Samples/down/prime_zither_b4_down_rr2.wav
+sample=../Samples/down/prime_zither_b4_down_rr2.flac
 lokey=47
 hikey=47
 seq_length=4
@@ -279,7 +279,7 @@ seq_position=4
 pitch_keycenter=47
 
 <region>
-sample=../Samples/down/prime_zither_c5_down_rr2.wav
+sample=../Samples/down/prime_zither_c5_down_rr2.flac
 lokey=48
 hikey=48
 seq_length=4
@@ -287,7 +287,7 @@ seq_position=4
 pitch_keycenter=48
 
 <region>
-sample=../Samples/down/prime_zither_db5_down_rr2.wav
+sample=../Samples/down/prime_zither_db5_down_rr2.flac
 lokey=49
 hikey=49
 seq_length=4
@@ -295,7 +295,7 @@ seq_position=4
 pitch_keycenter=49
 
 <region>
-sample=../Samples/down/prime_zither_d5_down_rr2.wav
+sample=../Samples/down/prime_zither_d5_down_rr2.flac
 lokey=50
 hikey=50
 seq_length=4
@@ -303,7 +303,7 @@ seq_position=4
 pitch_keycenter=50
 
 <region>
-sample=../Samples/down/prime_zither_eb5_down_rr2.wav
+sample=../Samples/down/prime_zither_eb5_down_rr2.flac
 lokey=51
 hikey=51
 seq_length=4
@@ -311,7 +311,7 @@ seq_position=4
 pitch_keycenter=51
 
 <region>
-sample=../Samples/down/prime_zither_e5_down_rr2.wav
+sample=../Samples/down/prime_zither_e5_down_rr2.flac
 lokey=52
 hikey=52
 seq_length=4
@@ -319,7 +319,7 @@ seq_position=4
 pitch_keycenter=52
 
 <region>
-sample=../Samples/down/prime_zither_f5_down_rr2.wav
+sample=../Samples/down/prime_zither_f5_down_rr2.flac
 lokey=53
 hikey=53
 seq_length=4
@@ -327,7 +327,7 @@ seq_position=4
 pitch_keycenter=53
 
 <region>
-sample=../Samples/down/prime_zither_gb5_down_rr2.wav
+sample=../Samples/down/prime_zither_gb5_down_rr2.flac
 lokey=54
 hikey=54
 seq_length=4
@@ -335,7 +335,7 @@ seq_position=4
 pitch_keycenter=54
 
 <region>
-sample=../Samples/down/prime_zither_g5_down_rr2.wav
+sample=../Samples/down/prime_zither_g5_down_rr2.flac
 lokey=55
 hikey=55
 seq_length=4
@@ -343,7 +343,7 @@ seq_position=4
 pitch_keycenter=55
 
 <region>
-sample=../Samples/down/prime_zither_ab5_down_rr2.wav
+sample=../Samples/down/prime_zither_ab5_down_rr2.flac
 lokey=56
 hikey=56
 seq_length=4
@@ -351,7 +351,7 @@ seq_position=4
 pitch_keycenter=56
 
 <region>
-sample=../Samples/down/prime_zither_a5_down_rr2.wav
+sample=../Samples/down/prime_zither_a5_down_rr2.flac
 lokey=57
 hikey=57
 seq_length=4
@@ -359,7 +359,7 @@ seq_position=4
 pitch_keycenter=57
 
 <region>
-sample=../Samples/down/prime_zither_bb5_down_rr2.wav
+sample=../Samples/down/prime_zither_bb5_down_rr2.flac
 lokey=58
 hikey=58
 seq_length=4
@@ -367,7 +367,7 @@ seq_position=4
 pitch_keycenter=58
 
 <region>
-sample=../Samples/down/prime_zither_b5_down_rr2.wav
+sample=../Samples/down/prime_zither_b5_down_rr2.flac
 lokey=59
 hikey=59
 seq_length=4
@@ -375,14 +375,14 @@ seq_position=4
 pitch_keycenter=59
 
 <region>
-sample=../Samples/down/prime_zither_c6_down_rr2.wav
+sample=../Samples/down/prime_zither_c6_down_rr2.flac
 lokey=60
 hikey=60
 seq_length=4
 seq_position=4
 
 <region>
-sample=../Samples/down/prime_zither_db6_down_rr2.wav
+sample=../Samples/down/prime_zither_db6_down_rr2.flac
 lokey=61
 hikey=61
 seq_length=4
@@ -390,7 +390,7 @@ seq_position=4
 pitch_keycenter=61
 
 <region>
-sample=../Samples/down/prime_zither_d6_down_rr2.wav
+sample=../Samples/down/prime_zither_d6_down_rr2.flac
 lokey=62
 hikey=62
 seq_length=4
@@ -398,7 +398,7 @@ seq_position=4
 pitch_keycenter=62
 
 <region>
-sample=../Samples/down/prime_zither_eb6_down_rr2.wav
+sample=../Samples/down/prime_zither_eb6_down_rr2.flac
 lokey=63
 hikey=63
 seq_length=4
@@ -406,7 +406,7 @@ seq_position=4
 pitch_keycenter=63
 
 <region>
-sample=../Samples/down/prime_zither_e6_down_rr2.wav
+sample=../Samples/down/prime_zither_e6_down_rr2.flac
 lokey=64
 hikey=64
 seq_length=4
@@ -414,7 +414,7 @@ seq_position=4
 pitch_keycenter=64
 
 <region>
-sample=../Samples/down/prime_zither_f6_down_rr2.wav
+sample=../Samples/down/prime_zither_f6_down_rr2.flac
 lokey=65
 hikey=65
 seq_length=4
@@ -422,7 +422,7 @@ seq_position=4
 pitch_keycenter=65
 
 <region>
-sample=../Samples/down/prime_zither_gb6_down_rr2.wav
+sample=../Samples/down/prime_zither_gb6_down_rr2.flac
 lokey=66
 hikey=66
 seq_length=4
@@ -430,7 +430,7 @@ seq_position=4
 pitch_keycenter=66
 
 <region>
-sample=../Samples/down/prime_zither_g6_down_rr2.wav
+sample=../Samples/down/prime_zither_g6_down_rr2.flac
 lokey=67
 hikey=67
 seq_length=4
@@ -438,7 +438,7 @@ seq_position=4
 pitch_keycenter=67
 
 <region>
-sample=../Samples/down/prime_zither_ab6_down_rr2.wav
+sample=../Samples/down/prime_zither_ab6_down_rr2.flac
 lokey=68
 hikey=68
 seq_length=4
@@ -446,7 +446,7 @@ seq_position=4
 pitch_keycenter=68
 
 <region>
-sample=../Samples/down/prime_zither_a6_down_rr2.wav
+sample=../Samples/down/prime_zither_a6_down_rr2.flac
 lokey=69
 hikey=69
 seq_length=4
@@ -454,7 +454,7 @@ seq_position=4
 pitch_keycenter=69
 
 <region>
-sample=../Samples/down/prime_zither_bb6_down_rr2.wav
+sample=../Samples/down/prime_zither_bb6_down_rr2.flac
 lokey=70
 hikey=70
 seq_length=4
@@ -462,7 +462,7 @@ seq_position=4
 pitch_keycenter=70
 
 <region>
-sample=../Samples/down/prime_zither_b6_down_rr2.wav
+sample=../Samples/down/prime_zither_b6_down_rr2.flac
 lokey=71
 hikey=71
 seq_length=4
@@ -470,7 +470,7 @@ seq_position=4
 pitch_keycenter=71
 
 <region>
-sample=../Samples/down/prime_zither_c7_down_rr2.wav
+sample=../Samples/down/prime_zither_c7_down_rr2.flac
 lokey=72
 hikey=72
 seq_length=4
